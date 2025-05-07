@@ -1,0 +1,15 @@
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\bin\Debug\net8.0\-CashTillFix.exe
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\bin\Debug\net8.0\-CashTillFix.deps.json
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\bin\Debug\net8.0\-CashTillFix.runtimeconfig.json
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\bin\Debug\net8.0\-CashTillFix.dll
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\bin\Debug\net8.0\-CashTillFix.pdb
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\obj\Debug\net8.0\-CashTillFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\obj\Debug\net8.0\-CashTillFix.AssemblyInfoInputs.cache
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\obj\Debug\net8.0\-CashTillFix.AssemblyInfo.cs
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\obj\Debug\net8.0\-CashTillFix.csproj.CoreCompileInputs.cache
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\obj\Debug\net8.0\-CashTillFix.sourcelink.json
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\obj\Debug\net8.0\-CashTillFix.dll
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\obj\Debug\net8.0\refint\-CashTillFix.dll
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\obj\Debug\net8.0\-CashTillFix.pdb
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\obj\Debug\net8.0\-CashTillFix.genruntimeconfig.cache
+C:\Users\rkpra\Desktop\Learn C#\-CashTillFix\obj\Debug\net8.0\ref\-CashTillFix.dll
